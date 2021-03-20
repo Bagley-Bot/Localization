@@ -1,73 +1,73 @@
 {
     "default": {
         "user": {
-            "not_enough_permissions": "You don't have enough permissions to use this command."
+            "not_enough_permissions": "Du hast nicht genug Berechtigungen um diesen Befehl zu nutzen."
         },
         "self": {
-            "not_enough_permissions": "I don't have enough Permissions. I need Mangage Roles and Administrator"
+            "not_enough_permissions": "Ich habe nicht genug Berechtigungen. Ich benötige Rollen Verwaltung und Administrator"
         },
         "embed": {
-            "footer.requested_from": "Requested from: {0}"
+            "footer.requested_from": "Angefordert von: {0}"
         }
     },
     "key": {
-        "guild_already_activated": "This guild is already activated.",
-        "provide_key": "Please provide a key",
-        "key_already_inuse": "This key is already in use.",
-        "key_no_exist": "This key doesn't exist.",
-        "success": "Key successfully used."
+        "guild_already_activated": "Dieser Server ist bereits aktiviert.",
+        "provide_key": "Bitte gebe einen Key an",
+        "key_already_inuse": "Dieser Key wird bereits genutzt.",
+        "key_no_exist": "Dieser Key existiert nicht.",
+        "success": "Key wurde erfolgreich verwendet."
     },
     "ticket": {
-        "already_ticket_open": "You already have an open ticket!",
-        "specify_reason": "Please specify a reason.",
-        "success.created": "Your ticket was successfully created.\n**Reason:** {0}",
-        "success.closed": "Ticket was successfully closed.",
-        "channel.description": "Ticket from {0} | Reason: {1}",
-        "channel.message.owner": "**Owner:**",
-        "channel.message.reason": "**Reason:**",
-        "channel.message.date": "**Date:**",
-        "channel.message.tip": "You can close this ticket with **b!close**\n\nPlease be patient, someone will take care of you soon."
+        "already_ticket_open": "Du hast bereits ein Ticket!",
+        "specify_reason": "Bitte gebe einen Grund an",
+        "success.created": "Dein Ticket wurde erfolgreich erstellt.\n**Grund:** {0}",
+        "success.closed": "Ticket wurde erfolgreich geschlossen.",
+        "channel.description": "Ticket von {0} | Grund: {1}",
+        "channel.message.owner": "**Besitzer:**",
+        "channel.message.reason": "**Grund:**",
+        "channel.message.date": "**Datum:**",
+        "channel.message.tip": "Du kannst dieses Ticket mit **b!close** schließen\n\nBitte habe Geduld, es wird sich bald jemand um dich kümmern."
     },
     "moderation": {
         "auto": {
-            "reason.invite": "Sended invite",
-            "reason.bad_words": "Bad words",
-            "embed.received": "{0} received a warning"
+            "reason.invite": "Einladung gesendet",
+            "reason.bad_words": "Schimpfwort",
+            "embed.received": "{0} hat eine Warnung erhalten"
         },
         "mute": {
-            "no_reason": "No reason provided",
-            "set_muterole": "{0} was set as mute role.",
-            "no_muterole": "Please register a mute role.",
-            "cant_find_muterole": "I can't find the mute role!",
-            "provide_user": "Please provide a user.",
-            "lower_role": "My role is lower than the mentioned user's role",
-            "muted": "{0} is now muted.",
-            "muted_for": "{0} is now muted for **{1}**",
-            "unmuted": "{0} is now unmuted.",
-            "user_not_muted": "This user isn't muted",
-            "success.title": "Successfully"
+            "no_reason": "Kein Grund angegeben",
+            "set_muterole": "{0} wurde als Mute-Rolle gesetzt.",
+            "no_muterole": "Bitte registriere eine Mute-Rolle.",
+            "cant_find_muterole": "Ich kann keine Mute-Rolle finden!",
+            "provide_user": "Bitte markiere einen User.",
+            "lower_role": "Meine Rolle ist niedriger, als die höchste Rolle des Users",
+            "muted": "{0} ist jetzt gemuted.",
+            "muted_for": "{0} ist jetzt gemuted für **{1}**",
+            "unmuted": "{0} ist jetzt entmuted.",
+            "user_not_muted": "Dieser User ist nicht gemuted",
+            "success.title": "Erfolgreich"
         },
         "warns": {
-            "title": "Warns",
-            "requested_from": "Requested from: {0}",
-            "mentioned": "**{0}** has **{1}** warn(s)",
-            "self": "You have **{0}** warn(s).",
+            "title": "Warnungen",
+            "requested_from": "Angefordert von: {0}",
+            "mentioned": "**{0}** hat **{1}** Warnung(en)",
+            "self": "Du hast **{0}** Warnung(en).",
             "remove": {
-                "success.title": "Warns removed",
-                "success.description": "All warns from {0} were deleted.",
-                "failure.title": "Error",
-                "failure.description": "{0} has no warnings at this time."
+                "success.title": "Warnungen entfernt",
+                "success.description": "Alle Warnungen von {0} wurden entfernt.",
+                "failure.title": "Fehler",
+                "failure.description": "{0} hat derzeit keine Warnungen."
             }
         }
     },
     "about": {
-        "title": "Some information about me",
-        "description": "I was designed to make everything safer and to make your stay more enjoyable. With ctOS 4.0, I am a very smart AI."
+        "title": "Ein paar Informationen über mich",
+        "description": "Ich wurde entwickelt, um alles sicherer zu machen und deinen Aufenthalt angenehmer zu gestalten. Mit ctOS 4.0 bin ich eine sehr intelligente KI."
     },
     "mention": {
-        "1": "Yes?",
-        "2": "What's going?",
-        "3": "Who disturbs me?",
-        "4": "Oh no, you again..."
+        "1": "Ja?",
+        "2": "Was geht?",
+        "3": "Wer stört mich?",
+        "4": "Oh nein, du schon wieder..."
     }
 }
