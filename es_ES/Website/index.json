@@ -14,13 +14,13 @@
     },
     "index": {},
     "dashboard": {
-        "guilds.configure": "Konfigurieren",
-        "guilds.add": "Hinzufügen",
+        "guilds.configure": "Configure",
+        "guilds.add": "Add",
         "module.moderation": "Moderation",
         "module.logging": "Logging",
         "module.fun": "Fun",
         "module.music": "Music",
-        "module.configuration": "Konfiguration",
+        "module.configuration": "Configuration",
         "configure.premstatus.premium": "Premium",
         "configure.premstatus.standard": "No Premium",
         "settings": {
