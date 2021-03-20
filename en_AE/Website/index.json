@@ -1,7 +1,37 @@
-
 {
-  "navbar" {
-    "home": "Home",
-    "dashboard": "Dashboard",
+  "navbar": {
+      "title": "BAGLEY",
+      "home": "Home",
+      "dashboard": "Dashboard"
+  },
+  "html": {
+      "title": "Bagley"
+  },
+  "index": {},
+  "dashboard": {
+      "guilds.configure": "Configure",
+      "guilds.add": "Add",
+      "module.moderation": "Moderation",
+      "module.logging": "Logging",
+      "module.fun": "Fun",
+      "module.music": "Music",
+      "module.configuration": "Configuration",
+      "configure.premstatus.premium": "Premium",
+      "configure.premstatus.standard": "No Premium",
+      "settings": {
+          "moderation.bad_words": "Bad Words",
+          "moderation.server_invites": "Server invites",
+          "moderation.zalgo": "Zalgo",
+          "moderation.caps": "Excessive caps (70% > caps)",
+          "logging.voice_activity": "Voice activity",
+          "logging.channel_activity": "Channel activity",
+          "logging.moderation_activity": "Moderation activity",
+          "option.false": "Disabled",
+          "option.true": "Enabled",
+          "option.delete_message": "Delete message",
+          "option.true_warn": "Warn Member",
+          "option.true_advc": "Delete message & Warn Member",
+          "button.submit": "Submit"
+      }
   }
 }
