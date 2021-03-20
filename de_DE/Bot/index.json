@@ -1,1 +1,71 @@
+{
+    "default": {
+        "user": {
+            "not_enough_permissions": "You don't have enough permissions to use this command."
+        },
+        "self": {
+            "not_enough_permissions": "I don't have enough Permissions. I need Mangage Roles and Administrator"
+        },
+        "embed": {
+            "footer.requested_from": "Requested from: {0}"
+        }
+    },
+    "key": {
+        "guild_already_activated": "This guild is already activated.",
+        "provide_key": "Please provide a key",
+        "key_already_inuse": "This key is already in use.",
+        "key_no_exist": "This key doesn't exist."
+    },
+    "ticket": {
+        "already_ticket_open": "You already have an open ticket!",
+        "specify_reason": "Please specify a reason.",
+        "successfully.created": "Your ticket was successfully created.\n**Reason:** ${0}",
+        "successfully.closed": "Ticket was successfully closed.",
+        "channel.description": "Ticket from {0} | Reason: {1}",
+        "channel.message.owner": "Owner",
+        "channel.message.reason": "Reason",
+        "channel.message.date": "Date",
+        "channel.message.tip": "You can close this ticket with **b!close**\n\nPlease be patient, someone will take care of you soon."
+    },
+    "moderation": {
+        "auto": {
+            "reason.invite": "Sended invite",
+            "reason.bad_words": "Bad words"
+        },
+        "mute": {
+            "no_reason": "No reason provided",
+            "set_muterole": "{0} was set as mute role.",
+            "no_muterole": "Please register a mute role.",
+            "cant_find_muterole": "I can't find the mute role!",
+            "provide_user": "Please provide a user.",
+            "lower_role": "My role is lower than the mentioned user's role",
+            "muted": "{0} is now muted.",
+            "muted_for": "{0} is now muted for **{1}**",
+            "unmuted": "{0} is now unmuted.",
+            "user_not_muted": "This user isn't muted"
+        },
+        "warns": {
+            "title": "Warns",
+            "requested_from": "Requested from: {0}",
+            "mentioned": "**{0}** has **{1}** warn(s)",
+            "self": "You have **{0}** warn(s).",
+            "remove": {
+                "success.title": "Warns removed",
+                "success.description": "All warns from {0} were deleted.",
+                "failure.title": "Error",
+                "failure.description": "{0} has no warnings at this time."
+            }
+        }
+    },
+    "about": {
+        "title": "Some information about me",
+        "description": "I was designed to make everything safer and to make your stay more enjoyable. With ctOS 4.0, I am a very smart AI."
+    },
+    "mention": {
+        "1": "Yes?",
+        "2": "What's going?",
+        "3": "Who disturbs me?",
+        "4": "Oh no, you again..."
+    }
+}
 
