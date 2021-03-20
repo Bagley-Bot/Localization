@@ -20,7 +20,7 @@
     "ticket": {
         "already_ticket_open": "You already have an open ticket!",
         "specify_reason": "Please specify a reason.",
-        "success.created": "Your ticket was successfully created.\n**Reason:** ${0}",
+        "success.created": "Your ticket was successfully created.\n**Reason:** {0}",
         "success.closed": "Ticket was successfully closed.",
         "channel.description": "Ticket from {0} | Reason: {1}",
         "channel.message.owner": "**Owner:**",
