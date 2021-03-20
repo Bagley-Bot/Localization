@@ -14,23 +14,25 @@
         "guild_already_activated": "This guild is already activated.",
         "provide_key": "Please provide a key",
         "key_already_inuse": "This key is already in use.",
-        "key_no_exist": "This key doesn't exist."
+        "key_no_exist": "This key doesn't exist.",
+        "success": "Key successfully used."
     },
     "ticket": {
         "already_ticket_open": "You already have an open ticket!",
         "specify_reason": "Please specify a reason.",
-        "successfully.created": "Your ticket was successfully created.\n**Reason:** ${0}",
-        "successfully.closed": "Ticket was successfully closed.",
+        "success.created": "Your ticket was successfully created.\n**Reason:** ${0}",
+        "success.closed": "Ticket was successfully closed.",
         "channel.description": "Ticket from {0} | Reason: {1}",
-        "channel.message.owner": "Owner",
-        "channel.message.reason": "Reason",
-        "channel.message.date": "Date",
+        "channel.message.owner": "**Owner:**",
+        "channel.message.reason": "**Reason:**",
+        "channel.message.date": "**Date:**",
         "channel.message.tip": "You can close this ticket with **b!close**\n\nPlease be patient, someone will take care of you soon."
     },
     "moderation": {
         "auto": {
             "reason.invite": "Sended invite",
-            "reason.bad_words": "Bad words"
+            "reason.bad_words": "Bad words",
+            "embed.received": "{0} received a warning"
         },
         "mute": {
             "no_reason": "No reason provided",
@@ -42,7 +44,8 @@
             "muted": "{0} is now muted.",
             "muted_for": "{0} is now muted for **{1}**",
             "unmuted": "{0} is now unmuted.",
-            "user_not_muted": "This user isn't muted"
+            "user_not_muted": "This user isn't muted",
+            "success.title": "Successfully"
         },
         "warns": {
             "title": "Warns",
