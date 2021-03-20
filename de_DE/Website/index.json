@@ -4,6 +4,11 @@
         "home": "Home",
         "dashboard": "Dashboard"
     },
+    "footer": {
+        "add_to_server": "Add to server",
+        "support": "Support",
+        "ubisoft_disclaimer": "Bagley is not sponsored by or affiliated with Ubisoft Entertainment."
+    },
     "html": {
         "title": "Bagley"
     },

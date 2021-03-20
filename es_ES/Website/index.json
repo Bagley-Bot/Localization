@@ -4,18 +4,23 @@
         "home": "Home",
         "dashboard": "Dashboard"
     },
+    "footer": {
+        "add_to_server": "Add to server",
+        "support": "Support",
+        "ubisoft_disclaimer": "Bagley is not sponsored by or affiliated with Ubisoft Entertainment."
+    },
     "html": {
         "title": "Bagley"
     },
     "index": {},
     "dashboard": {
-        "guilds.configure": "Configure",
-        "guilds.add": "Add",
+        "guilds.configure": "Konfigurieren",
+        "guilds.add": "Hinzufügen",
         "module.moderation": "Moderation",
         "module.logging": "Logging",
         "module.fun": "Fun",
         "module.music": "Music",
-        "module.configuration": "Configuration",
+        "module.configuration": "Konfiguration",
         "configure.premstatus.premium": "Premium",
         "configure.premstatus.standard": "No Premium",
         "settings": {
