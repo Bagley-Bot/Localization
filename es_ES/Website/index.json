@@ -23,6 +23,9 @@
         "module.configuration": "Configuration",
         "configure.premstatus.premium": "Premium",
         "configure.premstatus.standard": "No Premium",
+        "configuration": {
+            "info": "This proccess can take up to 1 minute. Do not reload this page while it's loading!"
+        },
         "settings": {
             "moderation.bad_words": "Bad Words",
             "moderation.server_invites": "Server invites",
@@ -36,7 +39,8 @@
             "option.delete_message": "Delete message",
             "option.true_warn": "Warn Member",
             "option.true_advc": "Delete message & Warn Member",
-            "button.submit": "Submit"
+            "button.submit": "Submit",
+            "button.goback": "Back"
         }
     }
 }
