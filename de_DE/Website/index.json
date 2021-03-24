@@ -5,7 +5,7 @@
         "dashboard": "Dashboard"
     },
     "footer": {
-        "add_to_server": "Add to server",
+        "add_to_server": "Zu Server hinzufügen",
         "support": "Support",
         "ubisoft_disclaimer": "Bagley is not sponsored by or affiliated with Ubisoft Entertainment."
     },
@@ -19,24 +19,28 @@
         "module.moderation": "Moderation",
         "module.logging": "Logging",
         "module.fun": "Fun",
-        "module.music": "Music",
+        "module.music": "Musik",
         "module.configuration": "Konfiguration",
         "configure.premstatus.premium": "Premium",
-        "configure.premstatus.standard": "No Premium",
+        "configure.premstatus.standard": "Kein Premium",
+        "configuration": {
+            "info": "This proccess can take up to 1 minute. Do not reload this page while it's loading."
+        },
         "settings": {
-            "moderation.bad_words": "Bad Words",
-            "moderation.server_invites": "Server invites",
+            "moderation.bad_words": "Schimpfwörter",
+            "moderation.server_invites": "Server-Einladungen",
             "moderation.zalgo": "Zalgo",
-            "moderation.caps": "Excessive caps (70% > caps)",
-            "logging.voice_activity": "Voice activity",
-            "logging.channel_activity": "Channel activity",
-            "logging.moderation_activity": "Moderation activity",
-            "option.false": "Disabled",
-            "option.true": "Enabled",
-            "option.delete_message": "Delete message",
-            "option.true_warn": "Warn Member",
-            "option.true_advc": "Delete message & Warn Member",
-            "button.submit": "Submit"
+            "moderation.caps": "Maßen Großbuchstaben (70% > caps)",
+            "logging.voice_activity": "Voice Aktivitäten",
+            "logging.channel_activity": "Channel Aktivitäten",
+            "logging.moderation_activity": "Moderation Aktivitäten",
+            "option.false": "Deaktiviert",
+            "option.true": "Aktiviert",
+            "option.delete_message": "Nachricht löschen",
+            "option.true_warn": "Member warnen",
+            "option.true_advc": "Nachricht löschen & Member warnen",
+            "button.submit": "Senden",
+            "button.goback": "Zurück"
         }
     }
 }
