@@ -32,7 +32,10 @@
         "auto": {
             "reason.invite": "Sended invite",
             "reason.bad_words": "Bad words",
-            "embed.received": "{0} received a warning"
+            "reason.zalgo": "Zalgo",
+            "reason.capital": "Capital letters",
+            "embed.received": "{0} received a warning",
+            "embed.reason": "Reason"
         },
         "mute": {
             "no_reason": "No reason provided",
