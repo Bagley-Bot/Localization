@@ -61,7 +61,40 @@
                 "failure.title": "Fehler",
                 "failure.description": "{0} hat derzeit keine Warnungen."
             }
+        },
+        "ban": {
+            "success": {
+                "title": "{0} wurde gebannt",
+                "description": "**Grund:** {0}"
+            },
+            "log": {
+                "description": "{0} **wurde gebannt**"
+            },
+            "failure": {
+                "user": "Bitte markiere einen User",
+                "rights": "Ich habe nicht genug Berechtigungen. Ich benötige: **BAN_MEMBERS**"
+            },
+            "unban": {
+                "success": {
+                    "title": "{0} wurde entbannt",
+                    "description": "**Grund:** {0}"
+                },
+                "log": {
+                    "description": "{0} **wurde entbannt**"
+                },
+                "failure": {
+                    "user": "Bitte markiere einen User",
+                    "ban": "Dieser User ist nicht gebannt"
+                }
+            }
         }
+    },
+    "module": {
+        "error.mode": "Dieses Modul ist bereits in diesem Modus.",
+        "error.exist": "Dieses Modul existiert nicht.",
+        "error.valid": "Bitte gebe ein gültiges Modul an.",
+        "error.value": "Bitte nutze **on** oder **off**.",
+        "success.toggle": "Modul erfolgreich umgestellt."
     },
     "about": {
         "title": "Ein paar Informationen über mich",

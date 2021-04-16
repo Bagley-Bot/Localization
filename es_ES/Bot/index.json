@@ -61,7 +61,40 @@
                 "failure.title": "Error",
                 "failure.description": "{0} has no warnings at this time."
             }
+        },
+        "ban": {
+            "success": {
+                "title": "{0} has been banned",
+                "description": "**Reason:** {0}"
+            },
+            "log": {
+                "description": "{0} **was banned**"
+            },
+            "failure": {
+                "user": "Please mention a user",
+                "rights": "I don't have enough permissions. I need **BAN_MEMBERS**"
+            },
+            "unban": {
+                "success": {
+                    "title": "{0} has been unbanned",
+                    "description": "**Reason:** {0}"
+                },
+                "log": {
+                    "description": "{0} **was unbanned**"
+                },
+                "failure": {
+                    "user": "Please mention a user",
+                    "ban": "This user is not banned"
+                }
+            }
         }
+    },
+    "module": {
+        "error.mode": "The module is already in the specified mode.",
+        "error.exist": "This module doesn't exist.",
+        "error.valid": "Please provide an valid module",
+        "error.value": "Please use **on** or **off**",
+        "success.toggle": "Module toggled successfully."
     },
     "about": {
         "title": "Some information about me",
