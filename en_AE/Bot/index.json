@@ -92,8 +92,9 @@
             "success": "I've deleted {0} messages",
             "description": "{0} deleted {1} messages",
             "failure": {
-                "amount": "Please provide a amount",
-                "numbers": "Please provide a valid number",
+                "amount": "Please provide a amount.",
+                "numbers": "Please provide a valid number.",
+                "100msg": "You can't delete more than 100 messages at once!",
                 "not_enough_permissions": "I don't have enough Permissions. I need: **MANAGE_MESSAGES**"
             }
         }

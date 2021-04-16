@@ -94,6 +94,7 @@
             "failure": {
                 "amount": "Bitte gebe eine Nummer an",
                 "numbers": "Bitte gebe eine gültige Nummer an",
+                "100msg": "You can't delete more than 100 messages at once!",
                 "not_enough_permissions": "Ich habe nicht genug Berechtigungen. Ich benötige: **MANAGE_MESSAGES**"
             }
         }
