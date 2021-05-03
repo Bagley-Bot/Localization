@@ -97,6 +97,13 @@
                 "100msg": "You can't delete more than 100 messages at once!",
                 "not_enough_permissions": "Ich habe nicht genug Berechtigungen. Ich benötige: **MANAGE_MESSAGES**"
             }
+        },
+        "addwarn": {
+            "success": {
+                "title": "Warn hinzugefügt",
+                "description": "Erfolgreich eine Warnung zu {0} hinzugefügt",
+                "reason": "Grund"
+            }
         }
     },
     "module": {
