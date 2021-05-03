@@ -107,6 +107,9 @@
             "failure": {
                 "user": "Please mention a user.",
                 "reason": "Please provide a reason."
+            },
+            "modlog": {
+                "description": "Added a warn to {0}"
             }
         }
     },

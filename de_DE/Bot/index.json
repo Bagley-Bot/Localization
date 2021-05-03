@@ -107,6 +107,9 @@
             "failure": {
                 "user": "Bitte markiere einen User.",
                 "reason": "Bitte gebe einen Grund an."
+            },
+            "modlog": {
+                "description": "Warnung zu {0} hinzugefügt"
             }
         }
     },
