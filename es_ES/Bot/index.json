@@ -111,6 +111,14 @@
             "modlog": {
                 "description": "Added a warn to {0}"
             }
+        },
+        "config": {
+            "modlog": {
+                "title": "Changed Modlog channel",
+                "modlog": {
+                    "description": "Set {0} as guild modlog"
+                }
+            }
         }
     },
     "module": {
