@@ -103,6 +103,10 @@
                 "title": "Warn hinzugefügt",
                 "description": "Erfolgreich eine Warnung zu {0} hinzugefügt",
                 "reason": "Grund"
+            },
+            "failure": {
+                "user": "Bitte markiere einen User.",
+                "reason": "Bitte gebe einen Grund an."
             }
         }
     },

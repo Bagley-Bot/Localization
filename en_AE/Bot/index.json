@@ -103,6 +103,10 @@
                 "title": "Added warn",
                 "description": "Successfully added a warn to {0}",
                 "reason": "Reason"
+            },
+            "failure": {
+                "user": "Please mention a user.",
+                "reason": "Please provide a reason."
             }
         }
     },
